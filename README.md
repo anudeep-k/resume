@@ -1,2 +1,1 @@
-# resume
-Anudeep Resume
+Anudeep's Resume
